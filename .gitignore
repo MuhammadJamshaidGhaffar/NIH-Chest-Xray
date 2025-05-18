@@ -1,0 +1,73 @@
+# ----------------------
+# Ignore dataset folder
+# ----------------------
+dataset/
+
+# ----------------------
+# Keep tensorboard logs
+# ----------------------
+# tensorboard-logs/  <-- NOT ignored
+**/tensorboard-logs/
+
+# ----------------------
+# Ignore model artifacts (but NOT the models/ folder itself)
+# Includes PyTorch, TensorFlow, Keras, NumPy files
+# ----------------------
+*.ckpt
+*.pt
+*.pth
+*.h5
+*.keras
+*.onnx
+*.pb
+*.tflite
+*.joblib
+*.pkl
+*.npy
+*.npz
+
+# ----------------------
+# Python build/cache files
+# ----------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.zip
+*.tar.gz
+
+# ----------------------
+# Jupyter cache (but NOT the notebooks themselves)
+# ----------------------
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ----------------------
+# Virtual environments
+# ----------------------
+.venv/
+env/
+ENV/
+env.bak/
+.env/
+Pipfile.lock
+.virtual_documents/
+
+# ----------------------
+# Editor/system files
+# ----------------------
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
+
+# ----------------------
+# Secrets/tokens
+# ----------------------
+.env
+*.secret
+*.token
+credentials.json
+token.json

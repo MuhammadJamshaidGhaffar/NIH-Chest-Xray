@@ -1,0 +1,90 @@
+[
+    {
+        "epoch": 1,
+        "train_loss": 9.210555076599121,
+        "val_loss": 8.690312385559082,
+        "train_accuracy": 0.08210785686969757,
+        "val_accuracy": 0.044168177992105484,
+        "AUC": 0.7008451819419861
+    },
+    {
+        "epoch": 2,
+        "train_loss": 8.954492568969727,
+        "val_loss": 8.2965087890625,
+        "train_accuracy": 0.08824822306632996,
+        "val_accuracy": 0.06109827011823654,
+        "AUC": 0.7199293375015259
+    },
+    {
+        "epoch": 3,
+        "train_loss": NaN,
+        "val_loss": NaN,
+        "train_accuracy": 0.05132095888257027,
+        "val_accuracy": 0.014993440359830856,
+        "AUC": 0.5641084909439087
+    },
+    {
+        "epoch": 4,
+        "train_loss": NaN,
+        "val_loss": NaN,
+        "train_accuracy": 0.014195159077644348,
+        "val_accuracy": 0.014993440359830856,
+        "AUC": 0.5
+    },
+    {
+        "epoch": 5,
+        "train_loss": NaN,
+        "val_loss": NaN,
+        "train_accuracy": 0.014195159077644348,
+        "val_accuracy": 0.014993440359830856,
+        "AUC": 0.5
+    },
+    {
+        "epoch": 6,
+        "train_loss": NaN,
+        "val_loss": NaN,
+        "train_accuracy": 0.014195159077644348,
+        "val_accuracy": 0.014993440359830856,
+        "AUC": 0.5
+    },
+    {
+        "epoch": 7,
+        "train_loss": NaN,
+        "val_loss": NaN,
+        "train_accuracy": 0.014195159077644348,
+        "val_accuracy": 0.014993440359830856,
+        "AUC": 0.5
+    },
+    {
+        "epoch": 8,
+        "train_loss": NaN,
+        "val_loss": NaN,
+        "train_accuracy": 0.014195159077644348,
+        "val_accuracy": 0.014993440359830856,
+        "AUC": 0.5
+    },
+    {
+        "epoch": 9,
+        "train_loss": NaN,
+        "val_loss": NaN,
+        "train_accuracy": 0.014195159077644348,
+        "val_accuracy": 0.014993440359830856,
+        "AUC": 0.5
+    },
+    {
+        "epoch": 10,
+        "train_loss": NaN,
+        "val_loss": NaN,
+        "train_accuracy": 0.014195159077644348,
+        "val_accuracy": 0.014993440359830856,
+        "AUC": 0.5
+    },
+    {
+        "epoch": 11,
+        "train_loss": NaN,
+        "val_loss": NaN,
+        "train_accuracy": 0.014195159077644348,
+        "val_accuracy": 0.014993440359830856,
+        "AUC": 0.5
+    }
+]
